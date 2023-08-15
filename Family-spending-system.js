@@ -38,5 +38,7 @@ function calculateBalance() {
 
 }
 
+calculateBalance()
+
 
 
